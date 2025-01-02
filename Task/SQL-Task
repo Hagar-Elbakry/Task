@@ -1,0 +1,1 @@
+SELECT product_id, product_name from products WHERE is_recyclable = true AND is_low_fat = true;
